@@ -1,8 +1,15 @@
+.nav-enlace {
+    display: inline;
+    color: teal;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
 h1 {
     color:#025157
 }
 
-h4 {
+p {
     color: #46484c
 }
 
@@ -10,5 +17,7 @@ button {
     color: white;
     background-color: #025157;
 }
+
+
 
 
